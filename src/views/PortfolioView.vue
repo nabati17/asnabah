@@ -42,6 +42,15 @@ export default {
         },
         {
           id: 5,
+          name: 'Bubur Ayam',
+          imageUrl: 'buburayam',
+          status: 'I created the Bubur Ayam website to provide a practical and enjoyable culinary experience. Here, you can find all the information about delicious and nutritious chicken porridge that’s ready to satisfy your taste buds anytime.',
+          tech: 'React Js',
+          github: 'null',
+          demo: 'https://dev-bubur-ayam-gudang-garam.pantheonsite.io/'
+        },
+        {
+          id: 6,
           name: 'Contacts Apps',
           imageUrl: 'contact',
           status: 'I created a simple contact website to help users store important contact information. It’s easy to use and allows users to access their contact list anytime',
@@ -50,14 +59,15 @@ export default {
           demo: 'https://contact-reactjs-asnabah.netlify.app/'
         },
         {
-          id: 6,
+          id: 7,
           name: 'Data Books Apps',
           imageUrl: 'databuku',
           status: 'I created a simple contact website to help users store important contact information. It’s easy to use and allows users to access their contact list anytime',
           tech: 'React Js',
           github: 'https://github.com/nabati17/contacts-app',
           demo: 'https://contact-reactjs-asnabah.netlify.app/'
-        }
+        },
+       
       ]
     };
   }
