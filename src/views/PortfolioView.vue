@@ -45,7 +45,7 @@ export default {
           name: 'Bubur Ayam',
           imageUrl: 'buburayam',
           status: 'I created the Bubur Ayam website to provide a practical and enjoyable culinary experience. Here, you can find all the information about delicious and nutritious chicken porridge that’s ready to satisfy your taste buds anytime.',
-          tech: 'React Js',
+          tech: 'Wordpress',
           github: 'null',
           demo: 'https://dev-bubur-ayam-gudang-garam.pantheonsite.io/'
         },
